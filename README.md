@@ -1,4 +1,4 @@
-# Reproducibility-of-Investigating-Whether-Fact-Checking-Models-Learn-to-Reason
+# reproducibility-of-fake-news-detection-model
 Investigated work: Casper Hansen, Christian Hansen, Lucas Chaves Lima (2021). Automatic Fake News Detection: Are Models Learning to Reason? ACL 2021.
 
 The paper can be found at https://paperswithcode.com/paper/automatic-fake-news-detection-are-models.
